@@ -11,3 +11,5 @@ def zmieniacz_x(ciag):
 
 znak = input("Proszę wpisać słowo do zmiany: ")
 print(zmieniacz_x(znak))
+
+print("Zmiany. Zmiany. Zmiany.")
